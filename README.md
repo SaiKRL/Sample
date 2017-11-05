@@ -1,1 +1,1 @@
-# Sample
+Sample Repository created for learning purporse.
